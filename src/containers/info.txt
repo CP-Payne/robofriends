@@ -1,0 +1,1 @@
+This folder contains smart components. i.e. Components with state and class syntax
